@@ -5,31 +5,31 @@ a lightweight LAN-based chat application for seamless communication in computer 
 
 ## Screenshots
 
-![Splash Screen](./Assets/screen-00.jpg)
+![Splash Screen](./assets/screen-00.jpg)
 Splash Screen
 
-![Authentication Window](./Assets/screen-01.jpg)
+![Authentication Window](./assets/screen-01.jpg)
 Authentication Window
 
-![Welcome Screen](./Assets/screen-02.jpg)
+![Welcome Screen](./assets/screen-02.jpg)
 Welcome Screen
 
-![Chatroom Creation Window](./Assets/screen-03.jpg)
+![Chatroom Creation Window](./assets/screen-03.jpg)
 Chatroom Creation Window
 
-![Real-time Chatting Window](./Assets/screen-04.jpg)
+![Real-time Chatting Window](./assets/screen-04.jpg)
 Real-time Chatting Window
 
-![Room Users Details](./Assets/screen-05.jpg)
+![Room Users Details](./assets/screen-05.jpg)
 Room Users Details
 
-![Edit Profile Window](./Assets/screen-06.jpg)
+![Edit Profile Window](./assets/screen-06.jpg)
 Edit Profile Window
 
-![Chat Room Configuration Window](./Assets/screen-06.jpg)
+![Chat Room Configuration Window](./assets/screen-06.jpg)
 Chat Room Configuration Window
 
-![Room History](./Assets/screen-06.jpg)
+![Room History](./assets/screen-06.jpg)
 Room History
 
 ## Features
