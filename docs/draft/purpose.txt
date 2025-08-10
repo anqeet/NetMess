@@ -1,0 +1,7 @@
+1.2 PURPOSE
+
+Purpose of this software product is to provide private and secure text-based commmunication to its users. It provides privacy and security by anonamization of its user and encryption the data transfer among those users. Its main focus is on privacy of its users and security of data exchanged among them.
+
+While popular instant messaging applications provides these functionalities, they do so in limited fashion like making their client and server software closed-source, forcing thier users to blindly trust thatthe client software that they use does not include telemetry and whatever services the server is running does not compromise their privacy and data in any way.
+
+The proposed software will differ by making public the source code of both its client and server program as well as allow user to host thier own message server and be in full control of thier data and communication not having to trust others.
